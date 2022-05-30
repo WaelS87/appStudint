@@ -1,5 +1,15 @@
-{
+[{
    "nombre": "Wael",
    "apellido": "fakhrji",
    "nacionalidad": "siria"
-}
+},
+{
+
+
+
+
+   "nombre":"juan",
+   "apellido":"gonzalez",
+   "nacionalidad":"argentina"
+
+}]
